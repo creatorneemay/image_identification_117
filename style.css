@@ -1,0 +1,26 @@
+body {
+    background-size: auto;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 5px 5px black;
+    font-family: 'Akaya Telivigala', cursive;
+    background: linear-gradient(to right bottom,black, red,blue,white);
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    color: black;
+}
+.heading_div_2{
+    font-size: 18px;
+    background-color: black;
+    font-weight: bold;
+    font-family: 'DotGothic16', sans-serif;
+    letter-spacing: 2px;
+}
